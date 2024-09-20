@@ -5,7 +5,7 @@ import io from 'socket.io-client'
 import Editor  from '@monaco-editor/react'
 import toast, { Toaster } from 'react-hot-toast';
 
-const socket= io("https://code-editor-a745.onrender.com/")
+const socket= io("https://code-editor-a745.onrender.com")
 
 const App = () => {
    const [joined,setJoined] =useState(false);
