@@ -22,6 +22,6 @@ The application is built using the following technologies:
 - React Js
 - Node Js
 - Express Js
-- Mongo DB
+
 
 
